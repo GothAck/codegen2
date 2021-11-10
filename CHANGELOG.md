@@ -1,7 +1,14 @@
 # <future version>
 
 ### Changed
+
+# 0.1.4 (November 10, 2021)
+
+### Changed
 - updated the crate to rust 2018 edition
+- Added Support For Struct Attributes (carllerche/codegen#33)
+- Add annotations for structs, enums and variants (carllerche/codegen#34)
+- push raw string in a module (carllerche/codegen#38)
 
 # 0.1.3 (May 9, 2020)
 

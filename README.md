@@ -6,7 +6,7 @@ Provides an builder API to assist in generating Rust code.
 
 More information about this crate can be found in the [crate documentation][dox]
 
-[dox]: https://docs.rs/codegen2/0.1.3/codegen2/
+[dox]: https://docs.rs/codegen2/0.1.4/codegen2/
 
 ## Installation
 
@@ -14,7 +14,7 @@ To use `codegen2`, first add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-codegen2 = "0.1.3"
+codegen2 = "0.1.4"
 ```
 
 Next, add this to your crate:
