@@ -1,4 +1,4 @@
-use codegen::*;
+use codegen2::*;
 
 #[test]
 fn empty_scope() {
